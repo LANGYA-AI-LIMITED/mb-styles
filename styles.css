@@ -224,6 +224,19 @@
     text-decoration: underline;
   }
 
+  .chatbot-file-icon {
+    font-size: 1em;
+    vertical-align: middle;
+  }
+
+  .chatbot-attachment span {
+    font-size: 0.8em;
+    vertical-align: middle;
+    font-style: italic;
+    margin-left: 2px;
+    font-weight: 100;
+  }
+
   @media (max-width: 768px) {
     .chatbot-container {
       margin: 10px auto;
