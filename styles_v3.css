@@ -36,7 +36,7 @@
 .create-room-btn {
   width: 100%;
   padding: 10px;
-  background: #8d0033;
+  background: #007bff;
   color: white;
   border: none;
   border-radius: 5px;
@@ -47,7 +47,7 @@
 }
 
 .create-room-btn:hover {
-  background: #6a0026;
+  background: #0056b3;
 }
 
 /* Room List Styles */
